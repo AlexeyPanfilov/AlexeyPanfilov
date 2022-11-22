@@ -5,4 +5,4 @@
 Основы Git и Java
 * [Внедрение системы контроля венсий (на примере анализа статистики продаж)](https://github.com/AlexeyPanfilov/gitHomeWork1)
 * [История работы и ветки (на примере анализа статистики продаж)](https://github.com/AlexeyPanfilov/gitHomeWork2)
-* [Командная работа](https://github.com/AlexeyPanfilov/gitHomeWorkTeams)
+* [Командная работа](https://github.com/AlexeyPanfilov/gitHomeWorkTeams3)
