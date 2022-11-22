@@ -12,3 +12,6 @@
 * [Коллекции HashSet и HashMap 1](https://github.com/AlexeyPanfilov/collectionsHashHomeWork1)
 * [Коллекции HashSet и HashMap 2](https://github.com/AlexeyPanfilov/collectionsHashHomeWork2)
 * [Коллекции TreeMap и TreeSet](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork)
+* [Лямбда-выражения и функциональные интерфейсы 1](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork/tree/lambda)
+* [Лямбда-выражения и функциональные интерфейсы 2](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork/tree/eraser/src)
+* [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/AlexeyPanfilov/streamHomeWork)
