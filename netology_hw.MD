@@ -1,6 +1,6 @@
 [Начальны работы - типы данных, условные операторы, циклы, массивы, основы ООП, итд](https://replit.com/@AlexeyPanfilov)
 
-[f](https://github.com/AlexeyPanfilov/NetologyDiplom1/tree/main](https://github.com/AlexeyPanfilov/NetologyDiplom1)
+[Курсовая работа: Конвертер в текстовую графику]
 
 Основы Git и Java
 * [Внедрение системы контроля венсий (на примере анализа статистики продаж)](https://github.com/AlexeyPanfilov/gitHomeWork1)
