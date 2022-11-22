@@ -8,3 +8,7 @@
 * [Командная работа](https://github.com/AlexeyPanfilov/gitHomeWorkTeams3)
 * [Generics в коллекциях и методах](https://github.com/TrueBlak/collectionsGenericsHomeWork)
 * [Коллекции List](https://github.com/TrueBlak/collectionsListHomeWork)
+* [Коллекции Queue](https://github.com/AlexeyPanfilov/collections3homeWork)
+* [Коллекции HashSet и HashMap 1](https://github.com/AlexeyPanfilov/collectionsHashHomeWork1)
+* [Коллекции HashSet и HashMap 2](https://github.com/AlexeyPanfilov/collectionsHashHomeWork2)
+* [Коллекции TreeMap и TreeSet](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork)
