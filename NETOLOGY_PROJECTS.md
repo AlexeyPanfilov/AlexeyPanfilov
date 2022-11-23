@@ -31,3 +31,7 @@
 * [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/AlexeyPanfilov/JVMHomeWork)
 
 [Курсовая работа «Менеджер личных финансов»](https://github.com/AlexeyPanfilov/JavaCoreFinalProject)
+
+### Шаблоны проектирования
+[Порождающие шаблоны. Builder](https://github.com/AlexeyPanfilov/patternsHomeWork1Builder)
+[Порождающие шаблоны. Singleton](https://github.com/AlexeyPanfilov/patternsHomeWork2Singleton)
