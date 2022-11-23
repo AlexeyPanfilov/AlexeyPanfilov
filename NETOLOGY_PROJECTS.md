@@ -46,4 +46,4 @@
 [«Менеджер задач»](https://github.com/AlexeyPanfilov/patternsFinalProject)
 
 #### Дипломная работа. 
-[Поисковая система](https://github.com/AlexeyPanfilov/pcs-final-diplom)
+[«Поисковая система»](https://github.com/AlexeyPanfilov/pcs-final-diplom)
