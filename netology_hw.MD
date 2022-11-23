@@ -12,6 +12,11 @@
 * [Коллекции HashSet и HashMap 1](https://github.com/AlexeyPanfilov/collectionsHashHomeWork1)
 * [Коллекции HashSet и HashMap 2](https://github.com/AlexeyPanfilov/collectionsHashHomeWork2)
 * [Коллекции TreeMap и TreeSet](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork)
+Java Core
 * [Лямбда-выражения и функциональные интерфейсы 1](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork/tree/lambda)
 * [Лямбда-выражения и функциональные интерфейсы 2](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork/tree/eraser/src)
 * [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/AlexeyPanfilov/streamHomeWork)
+* [Потоки ввода-вывода. Работа с файлами. Сериализация](https://github.com/AlexeyPanfilov/dirsAndFilesHomeWork)
+* [Сборка проектов. Maven](https://github.com/AlexeyPanfilov/mavenGradleHomeWork1m)
+* [Сборка проектов. Gradle](https://github.com/AlexeyPanfilov/mavenGradleHomeWork2g)
+* [Работа с файлами CSV, XML, JSON](https://github.com/AlexeyPanfilov/dirsAndFilesHomeWork/tree/json)
