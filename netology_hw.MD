@@ -12,6 +12,7 @@
 * [Коллекции HashSet и HashMap 1](https://github.com/AlexeyPanfilov/collectionsHashHomeWork1)
 * [Коллекции HashSet и HashMap 2](https://github.com/AlexeyPanfilov/collectionsHashHomeWork2)
 * [Коллекции TreeMap и TreeSet](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork)
+
 Java Core
 * [Лямбда-выражения и функциональные интерфейсы 1](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork/tree/lambda)
 * [Лямбда-выражения и функциональные интерфейсы 2](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork/tree/eraser/src)
@@ -20,3 +21,7 @@ Java Core
 * [Сборка проектов. Maven](https://github.com/AlexeyPanfilov/mavenGradleHomeWork1m)
 * [Сборка проектов. Gradle](https://github.com/AlexeyPanfilov/mavenGradleHomeWork2g)
 * [Работа с файлами CSV, XML, JSON](https://github.com/AlexeyPanfilov/dirsAndFilesHomeWork/tree/json)
+* [Тестирование кода и Unit-тесты](https://github.com/AlexeyPanfilov/junitTestsHomeWork)
+* [Mockito. Мокирование вызовов, Mock](https://github.com/AlexeyPanfilov/mockitoHomeWork)
+* [Основы работы с сетью. Модель OSI, TCP, UDP 1](https://github.com/AlexeyPanfilov/osiTcpHomeWork1)
+* [Основы работы с сетью. Модель OSI, TCP, UDP 2](https://github.com/AlexeyPanfilov/osiTcpHomeWork2)
