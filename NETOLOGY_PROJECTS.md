@@ -33,5 +33,9 @@
 [Курсовая работа «Менеджер личных финансов»](https://github.com/AlexeyPanfilov/JavaCoreFinalProject)
 
 ### Шаблоны проектирования
-[Порождающие шаблоны. Builder](https://github.com/AlexeyPanfilov/patternsHomeWork1Builder)
-[Порождающие шаблоны. Singleton](https://github.com/AlexeyPanfilov/patternsHomeWork2Singleton)
+* [Порождающие шаблоны. Builder](https://github.com/AlexeyPanfilov/patternsHomeWork1Builder)
+* [Порождающие шаблоны. Singleton](https://github.com/AlexeyPanfilov/patternsHomeWork2Singleton)
+* [Структурные шаблоны. Adapter](https://github.com/AlexeyPanfilov/patternsHomeWork3Adapter)
+* [Структурные шаблоны. Facade](https://github.com/AlexeyPanfilov/patternsHomeWork4Facade)
+* [Поведенческие шаблоны. Iterator](https://github.com/AlexeyPanfilov/patternsHomeWork5Iterator)
+* [Свойства хорошего кода и принцип SOLID](https://github.com/AlexeyPanfilov/patternsHomeWork6CleanCode)
