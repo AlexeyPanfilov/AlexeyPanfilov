@@ -1,8 +1,10 @@
+# Домашние задания и курсовые проекты по курсу Нетологии "Java разработка для начинающих"
+
 [Начальны работы - типы данных, условные операторы, циклы, массивы, основы ООП, итд](https://replit.com/@AlexeyPanfilov)
 
-[Курсовая работа: Конвертер в текстовую графику](https://github.com/AlexeyPanfilov/NetologyDiplom1)
+[Курсовая работа «Конвертер в текстовую графику»](https://github.com/AlexeyPanfilov/NetologyDiplom1)
 
-Основы Git и Java
+## Основы Git и Java
 * [Внедрение системы контроля венсий (на примере анализа статистики продаж)](https://github.com/AlexeyPanfilov/gitHomeWork1)
 * [История работы и ветки (на примере анализа статистики продаж)](https://github.com/AlexeyPanfilov/gitHomeWork2)
 * [Командная работа](https://github.com/AlexeyPanfilov/gitHomeWorkTeams3)
@@ -13,7 +15,7 @@
 * [Коллекции HashSet и HashMap 2](https://github.com/AlexeyPanfilov/collectionsHashHomeWork2)
 * [Коллекции TreeMap и TreeSet](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork)
 
-Java Core
+## Java Core
 * [Лямбда-выражения и функциональные интерфейсы 1](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork/tree/lambda)
 * [Лямбда-выражения и функциональные интерфейсы 2](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork/tree/eraser/src)
 * [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/AlexeyPanfilov/streamHomeWork)
@@ -25,3 +27,7 @@ Java Core
 * [Mockito. Мокирование вызовов, Mock](https://github.com/AlexeyPanfilov/mockitoHomeWork)
 * [Основы работы с сетью. Модель OSI, TCP, UDP 1](https://github.com/AlexeyPanfilov/osiTcpHomeWork1)
 * [Основы работы с сетью. Модель OSI, TCP, UDP 2](https://github.com/AlexeyPanfilov/osiTcpHomeWork2)
+* [Протокол HTTP. Вызов удаленных серверов](https://github.com/AlexeyPanfilov/HTTPHomeWork)
+* [JVM. Организация памяти, сборщики мусора, VisualVM](https://github.com/AlexeyPanfilov/JVMHomeWork)
+
+[Курсовая работа «Менеджер личных финансов»](https://github.com/AlexeyPanfilov/JavaCoreFinalProject)
