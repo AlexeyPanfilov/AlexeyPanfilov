@@ -41,3 +41,5 @@
 * [Свойства хорошего кода и принцип SOLID](https://github.com/AlexeyPanfilov/patternsHomeWork6CleanCode)
 
 [Курсовая работа «Менеджер задач»](https://github.com/AlexeyPanfilov/patternsFinalProject)
+
+[Дипломная работа. Поисковая система](https://github.com/AlexeyPanfilov/pcs-final-diplom)
