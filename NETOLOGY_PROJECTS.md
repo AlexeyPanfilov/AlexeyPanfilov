@@ -39,3 +39,5 @@
 * [Структурные шаблоны. Facade](https://github.com/AlexeyPanfilov/patternsHomeWork4Facade)
 * [Поведенческие шаблоны. Iterator](https://github.com/AlexeyPanfilov/patternsHomeWork5Iterator)
 * [Свойства хорошего кода и принцип SOLID](https://github.com/AlexeyPanfilov/patternsHomeWork6CleanCode)
+
+[Курсовая работа «Менеджер задач»](https://github.com/AlexeyPanfilov/patternsFinalProject)
