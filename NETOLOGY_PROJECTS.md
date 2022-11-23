@@ -1,10 +1,10 @@
-# Домашние задания и курсовые проекты по курсу Нетологии "Java разработка для начинающих"
+## Домашние задания и курсовые проекты по курсу Нетологии "Java разработка для начинающих"
 
 [Начальны работы - типы данных, условные операторы, циклы, массивы, основы ООП, итд](https://replit.com/@AlexeyPanfilov)
 
 [Курсовая работа «Конвертер в текстовую графику»](https://github.com/AlexeyPanfilov/NetologyDiplom1)
 
-## Основы Git и Java
+### Основы Git и Java
 * [Внедрение системы контроля венсий (на примере анализа статистики продаж)](https://github.com/AlexeyPanfilov/gitHomeWork1)
 * [История работы и ветки (на примере анализа статистики продаж)](https://github.com/AlexeyPanfilov/gitHomeWork2)
 * [Командная работа](https://github.com/AlexeyPanfilov/gitHomeWorkTeams3)
@@ -15,7 +15,7 @@
 * [Коллекции HashSet и HashMap 2](https://github.com/AlexeyPanfilov/collectionsHashHomeWork2)
 * [Коллекции TreeMap и TreeSet](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork)
 
-## Java Core
+### Java Core
 * [Лямбда-выражения и функциональные интерфейсы 1](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork/tree/lambda)
 * [Лямбда-выражения и функциональные интерфейсы 2](https://github.com/AlexeyPanfilov/collections5treeSteHomeWork/tree/eraser/src)
 * [Stream API. Потоки, повторные вызовы, основные методы](https://github.com/AlexeyPanfilov/streamHomeWork)
