@@ -49,4 +49,4 @@
 [«Поисковая система»](https://github.com/AlexeyPanfilov/pcs-final-diplom)
 
 #### Дополнительные задачи
-* [Telegram-бот для загрузки фото с сайта NASA](https://github.com/AlexeyPanfilov/NasaTGBot)
+* 
