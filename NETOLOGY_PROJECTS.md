@@ -49,4 +49,4 @@
 [«Поисковая система»](https://github.com/AlexeyPanfilov/pcs-final-diplom)
 
 #### Дополнительные задачи
-* 
+* [HTTP refactoring](https://github.com/AlexeyPanfilov/HttpRefactoring)
